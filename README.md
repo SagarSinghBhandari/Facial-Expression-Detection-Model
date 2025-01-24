@@ -1,4 +1,4 @@
-# Facial-Expression-Detection-Model
+# Facial-Expression-Recognition-Model
 A system that can detect human faces in an image or video and classify their facial expressions into predefined emotional categories such as happiness, sadness, anger, surprise, fear, disgust, and neutral.
 
 
